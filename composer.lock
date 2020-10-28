@@ -2841,16 +2841,16 @@
         },
         {
             "name": "symfony/http-client",
-            "version": "v4.4.15",
+            "version": "v4.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-client.git",
-                "reference": "b1cb966898aaf8df37280fde537a27b6724b3bc4"
+                "reference": "3ead7e297f4cc8a84661ef1f411c029acb34bc11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-client/zipball/b1cb966898aaf8df37280fde537a27b6724b3bc4",
-                "reference": "b1cb966898aaf8df37280fde537a27b6724b3bc4",
+                "url": "https://api.github.com/repos/symfony/http-client/zipball/3ead7e297f4cc8a84661ef1f411c029acb34bc11",
+                "reference": "3ead7e297f4cc8a84661ef1f411c029acb34bc11",
                 "shasum": ""
             },
             "require": {
@@ -2876,11 +2876,6 @@
                 "symfony/process": "^4.2|^5.0"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "4.4-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\HttpClient\\": ""
@@ -2919,7 +2914,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-10-02T13:41:48+00:00"
+            "time": "2020-10-24T11:50:19+00:00"
         },
         {
             "name": "symfony/http-client-contracts",
