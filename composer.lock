@@ -966,16 +966,16 @@
         },
         {
             "name": "oskarstark/env-var-extension",
-            "version": "1.1.0",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/OskarStark/env-var-extension.git",
-                "reference": "c444357017ab1d3c3f27b05d49020365a6490bf5"
+                "reference": "7e1a4f803e934bfe02bdc315a8641968c6be0678"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/OskarStark/env-var-extension/zipball/c444357017ab1d3c3f27b05d49020365a6490bf5",
-                "reference": "c444357017ab1d3c3f27b05d49020365a6490bf5",
+                "url": "https://api.github.com/repos/OskarStark/env-var-extension/zipball/7e1a4f803e934bfe02bdc315a8641968c6be0678",
+                "reference": "7e1a4f803e934bfe02bdc315a8641968c6be0678",
                 "shasum": ""
             },
             "require": {
@@ -984,7 +984,7 @@
             },
             "require-dev": {
                 "ergebnis/test-util": "^1.4",
-                "friendsofphp/php-cs-fixer": "^2.16",
+                "friendsofphp/php-cs-fixer": "^2.18.2",
                 "phpunit/phpunit": "^8.5 || ^9.0"
             },
             "type": "library",
@@ -1009,7 +1009,7 @@
                 "twig",
                 "twig-extension"
             ],
-            "time": "2020-11-18T12:54:06+00:00"
+            "time": "2021-01-28T08:40:43+00:00"
         },
         {
             "name": "php-http/cache-plugin",
@@ -3638,16 +3638,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.20.0",
+            "version": "v1.22.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "39d483bdf39be819deabf04ec872eb0b2410b531"
+                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/39d483bdf39be819deabf04ec872eb0b2410b531",
-                "reference": "39d483bdf39be819deabf04ec872eb0b2410b531",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
+                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
                 "shasum": ""
             },
             "require": {
@@ -3659,7 +3659,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "1.20-dev"
+                    "dev-main": "1.22-dev"
                 },
                 "thanks": {
                     "name": "symfony/polyfill",
@@ -3711,7 +3711,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-10-23T14:02:19+00:00"
+            "time": "2021-01-07T16:49:33+00:00"
         },
         {
             "name": "symfony/polyfill-php73",
@@ -4805,16 +4805,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v3.1.1",
+            "version": "v3.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "b02fa41f3783a2616eccef7b92fbc2343ffed737"
+                "reference": "f795ca686d38530045859b0350b5352f7d63447d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/b02fa41f3783a2616eccef7b92fbc2343ffed737",
-                "reference": "b02fa41f3783a2616eccef7b92fbc2343ffed737",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/f795ca686d38530045859b0350b5352f7d63447d",
+                "reference": "f795ca686d38530045859b0350b5352f7d63447d",
                 "shasum": ""
             },
             "require": {
@@ -4829,7 +4829,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.1-dev"
+                    "dev-master": "3.2-dev"
                 }
             },
             "autoload": {
@@ -4873,7 +4873,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-10-27T19:28:23+00:00"
+            "time": "2021-01-05T15:40:36+00:00"
         },
         {
             "name": "webmozart/assert",
